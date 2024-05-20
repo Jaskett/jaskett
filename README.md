@@ -1,7 +1,7 @@
 # Hi 👋 I'm Brandon Vasquez!
 As a Junior FullStack Developer, I am eager to contribute my passion for both front-end and back-end development, along with my growing skill set, to collaborative projects and continuous learning opportunities.
 
-- 🌐 Visit my [portfolio website]() for more information and to get in touch.
+- 🌐 Visit my [portfolio website]() (under construction) for more information and to get in touch.
 
 ---
 
